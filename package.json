@@ -1,0 +1,11 @@
+{
+  "name": "pet-adopt",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd server && npm run start",
+    "prepare": "cd server && npm i"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
